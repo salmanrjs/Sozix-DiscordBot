@@ -13,22 +13,22 @@ It responds to basic commands to help with server interaction.
 
 
 ### Bot status
-[BOT STATUS](images/bot1.png)
+[BOT STATUS](bot1.png)
 
 ### !help Command
-![Help Command](images/bot2.png)
+![Help Command](bot2.png)
 
 ### !avatar Command
-![Avatar Command](images/bot3.png)
+![Avatar Command](bot3.png)
 
 ### !avatar Command {Example 2}
-![Avatar Command](images/bot4.png)
+![Avatar Command](bot4.png)
 
 ### !ping Command
-![Ping Command](images/bot5.png)
+![Ping Command](bot5.png)
 
 ### !clear Command
-![Clear Command](images/bot6.png)
+![Clear Command](bot6.png)
 
 
 

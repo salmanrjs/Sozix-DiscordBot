@@ -9,6 +9,28 @@ It responds to basic commands to help with server interaction.
 - `!clear`: Clears a specified number of messages in the chat.
 - `!help`: Lists all available commands.
 
+## Screenshots
+
+
+### Bot status
+[BOT STATUS](images/bot1.png)
+
+### !help Command
+![Help Command](images/bot2.png)
+
+### !avatar Command
+![Avatar Command](images/bot3.png)
+
+### !avatar Command {Example 2}
+![Avatar Command](images/bot4.png)
+
+### !ping Command
+![Ping Command](images/bot5.png)
+
+### !clear Command
+![Clear Command](images/bot6.png)
+
+
 
 ## How to Run
 1. Install the required packages:

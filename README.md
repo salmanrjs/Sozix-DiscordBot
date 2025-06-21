@@ -15,7 +15,7 @@ It responds to basic commands to help with server interaction.
 pip install -r requirements.txt
 
 
-2. Add your Discord bot token in the bot script (`main.py` or wherever you store it).
+2. Add your Discord bot token in the bot script (`SozixBot` or wherever you store it).
 
 3. Run the bot
 

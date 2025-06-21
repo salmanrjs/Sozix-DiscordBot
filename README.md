@@ -12,8 +12,6 @@ It responds to basic commands to help with server interaction.
 ## Screenshots
 
 
-### Bot status
-[BOT STATUS](bot1.png)
 
 ### !help Command
 ![Help Command](bot2.png)

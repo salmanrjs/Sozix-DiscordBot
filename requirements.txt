@@ -1,4 +1,4 @@
-Your Token
+# Your Token
 import discord
 from discord.ext import commands
 import time

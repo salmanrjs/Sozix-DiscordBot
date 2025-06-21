@@ -14,19 +14,19 @@ It responds to basic commands to help with server interaction.
 
 
 ### !help Command
-![Help Command](bot2.png)
+![Help Command](images/bot2.png)
 
 ### !avatar Command
-![Avatar Command](bot3.png)
+![Avatar Command](images/bot3.png)
 
 ### !avatar Command {Example 2}
-![Avatar Command](bot4.png)
+![Avatar Command](images/bot4.png)
 
 ### !ping Command
-![Ping Command](bot5.png)
+![Ping Command](images/bot5.png)
 
 ### !clear Command
-![Clear Command](bot6.png)
+![Clear Command](images/bot6.png)
 
 
 
